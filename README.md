@@ -1,0 +1,1 @@
+# Plant_Disease_Prediction_CNN_Image_Classifier.CA2-PROJECT-
